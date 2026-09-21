@@ -195,13 +195,4 @@ The information is provided for research and educational purposes. Figures may c
 
 ---
 
-## Author
 
-**Arkaprova Mitra**
-
-Electronics & Communication Engineering  
-RV Institute of Technology and Management, Bengaluru
-
-### Project Year
-
-**2026**
