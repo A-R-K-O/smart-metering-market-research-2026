@@ -1,5 +1,4 @@
-# smart-metering-market-research-2026
-Research and analysis of Indian smart metering and utility industry initiatives in 2026
+
 # Indian Smart Metering & Utility Market Research 2026
 
 ## Overview
